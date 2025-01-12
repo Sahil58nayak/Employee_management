@@ -1,2 +1,2 @@
-# Employee_management
-SpringBoot Project  using JPA with Crud operation , Connect with Database SQL , also UI using JSP.
+# Employee_management 
+ Java Project Crud operation using SpringBoot Data JPA and Database Oracle SQL , also UI using JSP.
